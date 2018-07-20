@@ -1,6 +1,6 @@
 # Death Penalty SubStance Dataset
 
-This repository is the home of the Death Penalty SubStance dataset -- A dataset of YouTube anonymized comments annoated with stance on death penalty and towrds two sets of targets.
+This repository is the home of the Death Penalty SubStance dataset -- A dataset of YouTube comments annoated with stance on death penalty and towrds two sets of targets.
 
 __Background__
 
