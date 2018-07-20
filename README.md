@@ -17,6 +17,7 @@ Sets may differ regarding quality criteria such as (i) how easily people can app
 To shed light on these questions, we create a new data set of YouTube comments on the death penalty that we annotate with stance towards the death penalty and stance towards two sets of related targets -- (i) one expert set extracted from *idebate.com* and (ii) one representing the wisdom of the crowd from *reddit.com*.
 To compare the two sets, we quantitatively analyze their reliability, their coverage, and their topicality.
 To quantify the topicality, we examine how well stance can be predicted using the targets, and the relationship between targets and models that are trained to predict stance from text.
+
 __License__
 
 This work is licensed under Attribution-NonCommercial 2.0 Generic license (CC BY-NC 2.0)
