@@ -36,7 +36,7 @@ _Under the following terms:_
 * NonCommercial — You may not use the material for commercial purposes.
 
 __How to cite?__
-If you want to use the FEMHATE dataset, please cite:
+If you want to use the SubStance dataset, please cite:
 >@inproceedings{wojatzki2018femhate, <br />
  > &nbsp; title={Comparing Target Sets for Stance Detection: A Case Study on YouTube Comments on Death Penalty},<br />
  > &nbsp; author={Wojatzki, Michael and Zesch, Torsten},<br />
